@@ -1,3 +1,3 @@
 # Platzi Trips
 
-[Platzi Trips](./screenshot.jpeg)
+[Platzi Trips](screenshot.jpeg)
