@@ -1,3 +1,3 @@
 # Platzi Trips
 
-[Platzi Trips](screenshot.jpeg)
+[Platzi Trips](https://github.com/antablack/platzi-trips/blob/master/screenshot.jpeg)
